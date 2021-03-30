@@ -17,6 +17,5 @@
 1. Introduction to data preprocessing
 2. Standardizing data
 3. Feature Engineering
-4. Select features for model
-5. UFO data practice
+4. UFO data practice
 
