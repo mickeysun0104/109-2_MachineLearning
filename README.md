@@ -1,5 +1,6 @@
-# 2/24~3/23 MachineLearning
-> These are what I've learned from [DataCamp](https://learn.datacamp.com/) so far. 
+# MachineLearning
+> These are what I've learned from [DataCamp](https://learn.datacamp.com/) so far.
+> STILL UPDATING........ 
 
 ## Course 1 - Supervised Learning
 1. Classification
@@ -12,6 +13,12 @@
 2. Visualization with hierarchical clustering and t-SNE
 3. Decorrelating your data and dimension reduction
 4. Discovering interpretable features
+
+## Course 2 - Dimentionality Reduction
+1. Exploring high dimentional data
+2. Feature selection by feature information
+3. Feature selection by model accuracy (upload by 5/2)
+4. Featrue extraction (upload by 5/2)
 
 ## Course 8 - Preprocessing for Machine learning
 1. Introduction to data preprocessing
