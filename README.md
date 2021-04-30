@@ -14,7 +14,7 @@
 3. Decorrelating your data and dimension reduction
 4. Discovering interpretable features
 
-## Course 2 - Dimentionality Reduction
+## Course 7 - Dimentionality Reduction
 1. Exploring high dimentional data
 2. Feature selection by feature information
 3. Feature selection by model accuracy
@@ -25,3 +25,6 @@
 3. Feature Engineering
 4. UFO data practice
 
+## Course 10 - Feature Engineering
+1. Create Features
+2. Deal with messy data&Conforming to Statistical Assumptions
