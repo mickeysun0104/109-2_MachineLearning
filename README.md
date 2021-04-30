@@ -17,8 +17,7 @@
 ## Course 2 - Dimentionality Reduction
 1. Exploring high dimentional data
 2. Feature selection by feature information
-3. Feature selection by model accuracy (upload by 5/2)
-4. Featrue extraction (upload by 5/2)
+3. Feature selection by model accuracy
 
 ## Course 8 - Preprocessing for Machine learning
 1. Introduction to data preprocessing
