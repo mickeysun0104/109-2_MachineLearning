@@ -3,14 +3,14 @@
 > STILL UPDATING........ 
 
 ## Course 1 - Supervised Learning
--Classification
-  -介紹基本的KNN與基本scikit_learn的模型操作流程
--Regression
-  -用熱度圖做EDA跑基本的簡單線性模型
--Tuning the model
-  -用GridSearch及禪見評估指標找出模型最佳參數
--Pipelines
-  -用pipeline將上述步驟連串起來
+- Classification
+  - 介紹基本的KNN與基本scikit_learn的模型操作流程
+- Regression
+  - 用熱度圖做EDA跑基本的簡單線性模型
+- Tuning the model
+  - 用GridSearch及禪見評估指標找出模型最佳參數
+- Pipelines
+  - 用pipeline將上述步驟連串起來
 
 ## Course 2 - Unsupervised Learning
 1. Clustering for dataset exploration
