@@ -4,10 +4,11 @@
 
 ## Course 1 - Supervised Learning
 1. Classification
-  *介紹基本的KNN與基本scikit_learn的模型操作流程
-3. Regression
-4. Tuning the model
-5. Pipelines
+  -介紹基本的KNN與基本scikit_learn的模型操作流程
+2. Regression
+  -
+5. Tuning the model
+6. Pipelines
 
 ## Course 2 - Unsupervised Learning
 1. Clustering for dataset exploration
