@@ -4,10 +4,9 @@
 
 ## Course 1 - Supervised Learning
 1. Classification
-
-  -介紹基本的KNN與基本scikit_learn的模型操作流程
+-介紹基本的KNN與基本scikit_learn的模型操作流程
 2. Regression
-  -用熱度圖做EDA泡跑基本的簡單線性模型
+-用熱度圖做EDA跑基本的簡單線性模型
 5. Tuning the model
 6. Pipelines
 
