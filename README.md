@@ -1,7 +1,5 @@
 # MachineLearning
 > These are what I've learned from [DataCamp](https://learn.datacamp.com/) so far.
-> STILL UPDATING........ 
-
 ## Course 1 - Supervised Learning
 - Classification
   - 介紹基本的KNN與基本scikit_learn的模型操作流程
